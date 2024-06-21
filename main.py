@@ -16,5 +16,6 @@ def main():
     else:
         print("No temperature data available.")
 
+
 if __name__ == '__main__':
     main()
